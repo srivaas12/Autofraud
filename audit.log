@@ -1,0 +1,8 @@
+2026-01-31 11:02:03 | user=admin_user | role=admin | action=RUN_FRAUD_DETECTION | amount=250.0, channel=Card Present, foreign=No
+2026-01-31 11:03:22 | user=admin_user | role=admin | action=RUN_FRAUD_DETECTION | amount=25899.0, channel=Online, foreign=No
+2026-01-31 11:05:51 | user=analyst_user | role=analyst | action=RUN_FRAUD_DETECTION | amount=250.0, channel=Card Present, foreign=No
+2026-02-23 21:05:26 | user=admin_user | role=admin | action=RUN_FRAUD_DETECTION | amount=250.02, channel=Online, foreign=Yes
+2026-02-23 21:05:41 | user=admin_user | role=admin | action=ESCALATION_TRIGGERED | final_risk=0.90
+2026-02-24 09:19:57 | user=admin_user | role=admin | action=RUN_FRAUD_DETECTION | amount=25540.05, channel=Online, foreign=Yes
+2026-02-24 09:20:13 | user=admin_user | role=admin | action=TRANSACTION_PREVENTED | risk_score=1.00
+2026-02-24 09:20:13 | user=admin_user | role=admin | action=ESCALATION_TRIGGERED | final_risk=1.00
