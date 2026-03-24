@@ -48,8 +48,6 @@ Fraudulent transactions are rare and hard to detect. This project builds an ML m
 
 ---
 ```bash
-# Clone the repo
-git clone https://github.com/srivaas12/Autofraud.git
-cd Autofraud
+
 
 # 
