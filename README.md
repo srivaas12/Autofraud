@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Credit Card Fraud Detection
 
 ## Table of Contents
@@ -140,3 +141,7 @@ Our credit card fraud detection model demonstrated a significant ability to dist
 4. **Integration with Multi-Layer Security:** This model should complement other security measures, such as two-factor authentication, to enhance fraud detection and prevention.
 
 By integrating this machine learning-based solution into financial systems, organizations can strengthen their defenses against fraud, ensuring both security and a seamless customer experience.
+=======
+# AutoFraud
+Explainable fraud detection system using machine learning
+>>>>>>> 6f5489cb8890bd72040dd4f150b9240b899946cc
