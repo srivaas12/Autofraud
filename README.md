@@ -47,9 +47,6 @@ Fraudulent transactions are rare and hard to detect. This project builds an ML m
 | **F1-Score (Fraud)** | 0.66 | **0.75** |
 
 ---
-
-## How to Run
-
 ```bash
 # Clone the repo
 git clone https://github.com/srivaas12/Autofraud.git
