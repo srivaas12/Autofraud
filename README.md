@@ -46,8 +46,5 @@ Fraudulent transactions are rare and hard to detect. This project builds an ML m
 | **Recall (Fraud)** | 0.94 | **0.99** |
 | **F1-Score (Fraud)** | 0.66 | **0.75** |
 
----
-```bash
-
 
 # 
